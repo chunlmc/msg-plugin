@@ -1,10 +1,10 @@
 .whatsapp {
-  width:80px;
+  width:70px;
   position:fixed;
   right:5%;
   bottom:5%;
 }
 
 .whatsapp:hover {
-  width:90px;
+  width:80px;
 }
