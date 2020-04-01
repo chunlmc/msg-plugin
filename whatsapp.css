@@ -11,10 +11,10 @@
 
 @media (max-width:800px) {
   .whatsapp {
-    width:40px;
+    width:50px;
   }
   
   .whatsapp:hover {
-  width:50px;
+  width:60px;
   }
 }
