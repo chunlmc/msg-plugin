@@ -22,19 +22,19 @@
 
 @media (max-width:800px) {
   .facebook-msg {
-    width:10%;
+    width:15%;
   }
 
   .facebook-msg:hover {
-    width:12%;
+    width:16%;
   }
 
   .whatsapp {
-    width:10%;
+    width:15%;
   }
 
   .whatsapp:hover {
-    width:12%;
+    width:16%;
   }
 
 }
