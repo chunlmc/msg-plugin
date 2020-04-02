@@ -1,0 +1,40 @@
+.facebook-msg {
+  width:5%;
+  position:fixed;
+  left:5%;
+  bottom:17%;
+}
+
+.facebook-msg:hover {
+  width:6%;
+}
+
+.whatsapp {
+  width:5%;
+  position:fixed;
+  left:5%;
+  bottom:5%;
+}
+
+.whatsapp:hover {
+  width:6%;
+}
+
+@media (max-width:800px) {
+  .facebook-msg {
+    width:10%;
+  }
+
+  .facebook-msg:hover {
+    width:12%;
+  }
+
+  .whatsapp {
+    width:10%;
+  }
+
+  .whatsapp:hover {
+    width:12%;
+  }
+
+}
